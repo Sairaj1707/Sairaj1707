@@ -40,7 +40,7 @@ From wireframes to functional prototypes - I design smooth, intuitive, and moder
 
 ### 📚 Certifications & Achievements
 
-- 🏆 Published **3 Blockchain** and **1 AI** research papers  
+- 🏆 Published **3 Blockchain** and **1 ML** research papers  
 - 📌 Filed a patent for **ARt. Generator System** (Application No. 451304-001)  
 - 🎓 Honor Degree in Blockchain Technology (Score: 89.76%)  
 - 📜 Certified in C++, Hyperledger Fabric, Ethical Hacking, Blockchain Fundamentals
