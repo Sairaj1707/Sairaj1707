@@ -1,39 +1,74 @@
-<h1 align="center">Hi 👋, I'm Sairaj Shinde</h1>
+<h1 align="center">Hey there 👋, I'm Sairaj Shinde</h1>
 
-<h4 align="center">I'm an IT engineer in my final year, passionate about crafting exceptional digital experiences.</h4>
+<h4 align="center">A curious mind blending design, code & innovation - IT Engineer | UI/UX Designer | Blockchain Developer</h4>
 
-Discover what I do:
+---
 
-### 🎨 UI/UX Designer
-I thrive on creating intuitive and beautiful user interfaces. From wireframes to high-fidelity prototypes, I focus on user-centric design principles to deliver seamless experiences.
+### 💡 About Me
 
-### 🎥 Video Editor
-I bring stories to life through compelling video content. My editing skills ensure that every project is visually stunning and effectively communicates the intended message.
+I'm a recent Information Technology graduate passionate about turning ideas into impactful digital experiences. My work blends front-end development, user-centered design and emerging tech like Blockchain and AI.
 
-### 💻 Frontend Developer
-With a knack for coding and a love for design, I build responsive and dynamic websites. My tools of choice include HTML, CSS, JavaScript, and popular frameworks like React.
+I thrive in creative environments and love building systems that solve real problems - whether it’s generating research papers, designing engaging interfaces or securing health records with blockchain.
 
-### 🌐 Blockchain Enthusiast
-I'm exploring the cutting-edge world of blockchain technology. I'm fascinated by its potential to revolutionize industries and am eager to contribute to innovative projects in this space.
+---
 
-### 🌟 What I Bring to the Table
-- **Creativity**: I excel at thinking outside the box and delivering unique solutions.
-- **Attention to Detail**: Precision and quality are my top priorities in every project.
-- **Collaboration**: I enjoy working with diverse teams and believe in the power of collective effort.
-- **Continuous Learning**: I’m always eager to learn new skills and stay updated with industry trends.
+### 🚀 What I Do
 
-###  More about me
-- 🌱 I’m currently learning **Flutter & Blockchain Technology**
+#### 💻 Frontend Developer  
+Crafting responsive, accessible web interfaces using **HTML, CSS, JavaScript, React** and backend tools like **Flask, Node.js**.
 
-- 💬 Ask me about **react,php,mysql,Blockchain,UI/UX**
+#### 🌐 Blockchain Developer  
+Building decentralized solutions with **Solidity, Ethereum, IPFS, and ZKPs** - projects like **MedSecureChain** bring security and privacy to healthcare data.
 
-- 📫 How to reach me **sairajshinde17@gmail.com**
+#### 🤖 ML/AI Developer  
+Applied machine learning to real-world use cases - such as using CNNs to detect **Lumpy Skin Disease (LSD)** in dairy animals with Python + Flask.
 
-### 🌱 Let's Connect!
-I'm always excited to collaborate on new projects and connect with fellow tech enthusiasts. Feel free to explore my repositories and reach out if you'd like to work together or just chat about tech.
+#### 🎨 UI/UX Designer  
+From wireframes to functional prototypes - I design smooth, intuitive, and modern user experiences using Figma, Framer, and design systems.
 
-<a href="https://linkedin.com/in/sairaj-shinde17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sairaj-shinde17" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** C, C++, JavaScript, Python, PHP, Solidity, Java  
+- **Frameworks & Libraries:** React.js, Flask, Django, Node.js, Bootstrap  
+- **Blockchain:** Ethereum, IPFS, ZKPs, Hyperledger Fabric  
+- **Tools:** GitHub, Figma, Framer, Remix IDE, VS Code, MySQL, MongoDB  
+- **Other:** Blender, Selenium, Docker, Linux
+
+---
+
+### 📚 Certifications & Achievements
+
+- 🏆 Published **3 Blockchain** and **1 AI** research papers  
+- 📌 Filed a patent for **ARt. Generator System** (Application No. 451304-001)  
+- 🎓 Honor Degree in Blockchain Technology (Score: 89.76%)  
+- 📜 Certified in C++, Hyperledger Fabric, Ethical Hacking, Blockchain Fundamentals
+
+---
+
+### 📌 Projects Highlight
+
+- **🧠 ARt. Generator:** Automated research paper formatting & summarization using PHP, Flask & JS  
+- **🖨️ PrintVista:** E-commerce platform for custom printing services using React.js  
+- **🐄 LSD Detector:** CNN-based skin disease detection for livestock  
+- **🔐 MedSecureChain:** Privacy-preserving blockchain-based health data sharing system
+
+Explore more on [my portfolio →](https://sairaj17.framer.website)
+
+---
+
+### 📫 Let’s Connect
+
+- 📧 Email: **sairajshinde17@gmail.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/sairaj-shinde17)  
+- 💻 [GitHub](https://github.com/Sairaj1707)  
+- 🌐 [Portfolio Website](https://sairaj17.framer.website)
+
+---
+
+### ✨ Fun Fact
+
+> I believe code is not just syntax - it's a form of **expression**, and every line I write is part of a **bigger story**.
+
+---
